@@ -1,5 +1,4 @@
-# Unciv-mod-example
+# Soviets & Socialism 
 
-An example mod for Unciv, that adds one new Civilization.
+A mod for Unciv, that adds several new Civilizations based around socialism and communism.
 
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
